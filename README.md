@@ -8,5 +8,6 @@
 
 # Linux Assignment 1
 <img width="1365" height="717" alt="Screenshot 2025-07-29 204253" src="https://github.com/user-attachments/assets/46f54877-c110-4470-a360-fb1b06a058a9" />
+
 # Linux Assignment 2
 <img width="1164" height="695" alt="Screenshot 2025-08-01 115037" src="https://github.com/user-attachments/assets/d643a27e-cf65-48a6-a56c-c21490451582" />
