@@ -11,3 +11,6 @@
 
 # Linux Assignment 2
 <img width="1164" height="695" alt="Screenshot 2025-08-01 115037" src="https://github.com/user-attachments/assets/d643a27e-cf65-48a6-a56c-c21490451582" />
+
+#Intermediate C Programming
+![64a0a218-a1fb-4f06-9c6e-09b54d5f37e9](https://github.com/user-attachments/assets/2f1a2d53-5efa-4674-a612-d9bbcea45689)
